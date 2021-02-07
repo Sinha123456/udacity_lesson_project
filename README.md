@@ -2,12 +2,14 @@
 
 ## Introduction
 ## Requirment
+## Doccumentation
 ## Recommended models
 ## Installation
 
 # Introduction
 There are 3 projects, No_show_appointment and A/B Testing based on python libraries while Weather_trend project has done in excel sheet.
 All data for these projects extracted from Udacity online classes (https://www.udacity.com/).
+cloning the repository (https://github.com/Sinha123456/udacity_lesson_project.git)
 
 # Requirment
 
@@ -15,6 +17,8 @@ SQL
 
 Python libraries
 
+## Doccumentation
+ 
 here is the link of these libraries which I used in my projects.
 
 For reading data, exploring and cleaning the data (https://pandas.pydata.org/pandas-docs/version/0.23.1/tutorials.html)
