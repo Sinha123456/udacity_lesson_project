@@ -51,3 +51,6 @@ set_matplotlib_formats('pdf', 'svg')
 There is no need to install any libraries separatly, These libraries are pre-installed with anaconda package. 
 Google colaboratory notebook platform used for No_show_appointment and A_BTesting projects.
 
+## License & copyright
+Sinha123456
+Licensed under the [MIT License](License)
